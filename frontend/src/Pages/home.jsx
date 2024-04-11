@@ -52,9 +52,9 @@ const Home = () => {
     <>
       <div className="banner">
         <div className="container">
-          <h1>Welcome to Our Ecommerce Store</h1>
+          {/* <h1>Welcome to Our ElectroMart Store</h1>
           <p>Discover amazing products at unbeatable prices</p>
-          <h3 className="btn btn-primary">Shop Now</h3>
+          <h3 className="btn btn-primary">Shop Now</h3> */}
         </div>
       </div>
       <div className="container mt-4">
